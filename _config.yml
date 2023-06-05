@@ -1,0 +1,9 @@
+# Site settings
+title: Pyr
+author:
+  name: Pyr
+  email: pyrexposed@gmail.com
+description: "Pyr is for seekers of GOD’s divine beauty."
+
+# Build settings
+remote_theme: jekyll/minima
