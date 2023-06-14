@@ -1,1 +1,1 @@
-![PYR%20logo%20draft.png](https://github.com/bebopkid/pyr/blob/c8163aa3f49a513e96530b184f764949e6429488/PYR%20logo%20draft.png)
+![PYR_logo_draft.png]([https://github.com/bebopkid/pyr/blob/c8163aa3f49a513e96530b184f764949e6429488/PYR%20logo%20draft.png](https://github.com/bebopkid/pyr/blob/c165250ec7407070cdda41c707501b312ca03cb0/PYR_logo_draft.png)https://github.com/bebopkid/pyr/blob/c165250ec7407070cdda41c707501b312ca03cb0/PYR_logo_draft.png)
